@@ -26,3 +26,9 @@ blog source
 #### run blog
 
 > hexo s -g
+
+donation account: 
+zhifubao pay:
+![img](https://github.com/andotorg/andotorg_source/blob/master/de/zfb.jpg?raw=true, '蚁点支付宝收钱码')
+
+wechat pay:
