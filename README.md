@@ -23,6 +23,10 @@ blog source
 
 > npm install -g hexo-cli
 
+#### install hexo server
+
+> npm install hexo-server
+
 #### run blog
 
 > hexo s -g
